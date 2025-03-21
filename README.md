@@ -1,5 +1,5 @@
 ## DePIN Düğüm Eklentilerini VDS'e Kurmak
-* Linux VDS sunucusunda Chromium ile DePIN projelerini çalıştırabilirsiniz.
+* Linux VDS sunucusunda Chromium ile çalıştırılabilecek DePIN düğümleri.
 
 * Chromium kurmadıysanız [Linux Kurulumu](https://github.com/0xGutso/Linux_Chromium)
 
