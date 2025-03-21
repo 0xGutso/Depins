@@ -9,26 +9,27 @@
 
 ## Çalıştıracağımız DePIN Düğümleri
 
-- Grass 
-- Nodepay
-- Gradient
-- Bless
-- Dawn
-- Naoris
-- Stork
-- 3DOS
-- MyGate
-- Voltix
-- DeSpeed
-- Teneo
-- Kaisar
-- NodeGo.Ai
-- Toggle
-- Minion Labs
-- OpenLoop 
-- SparkChain
-- Grid Network
-- OptimAI
+- [Grass](https://github.com/0xGutso/Depins/blob/main/README.md#grass-sezon-2) 
+- [Nodepay](https://github.com/0xGutso/Depins/blob/main/README.md#nodepay)
+- [Gradient](https://github.com/0xGutso/Depins/blob/main/README.md#gradient)
+- [Bless](https://github.com/0xGutso/Depins/blob/main/README.md#bless-network)
+- [Dawn](https://github.com/0xGutso/Depins/blob/main/README.md#dawn)
+- [Naoris](https://github.com/0xGutso/Depins/blob/main/README.md#naoris-protocol)
+- [Stork](https://github.com/0xGutso/Depins/blob/main/README.md#stork-oracle)
+- [3DOS](https://github.com/0xGutso/Depins/blob/main/README.md#3dos)
+- [Gaea](https://github.com/0xGutso/Depins/blob/main/README.md#gaea)
+- [MyGate](https://github.com/0xGutso/Depins/blob/main/README.md#mygate-network)
+- [Voltix](https://github.com/0xGutso/Depins/blob/main/README.md#voltix-cpu-worker)
+- [DeSpeed](https://github.com/0xGutso/Depins/blob/main/README.md#despeed-validator)
+- [Teneo](https://github.com/0xGutso/Depins/blob/main/README.md#teneo)
+- [Kaisar](https://github.com/0xGutso/Depins/blob/main/README.md#kaisar)
+- [NodeGo.Ai](https://github.com/0xGutso/Depins/blob/main/README.md#nodegoai)
+- [Toggle](https://github.com/0xGutso/Depins/blob/main/README.md#toggle)
+- [Minion Labs](https://github.com/0xGutso/Depins/blob/main/README.md#minion-labs)
+- [OpenLoop](https://github.com/0xGutso/Depins/blob/main/README.md#openloop)
+- [SparkChain](https://github.com/0xGutso/Depins/blob/main/README.md#sparkchain)
+- [Grid Network](https://github.com/0xGutso/Depins/blob/main/README.md#grid-network)
+- [OptimAI](https://github.com/0xGutso/Depins/blob/main/README.md#optimai)
 
 ### Grass Sezon 2
 - İlk sezon bitti ve güzel bir drop bıraktı, 2. sezon kasmaya devam ediyorum.
